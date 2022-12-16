@@ -5,7 +5,7 @@
     "home_page_url": "https://www.1stand7thfromescouts.org.uk",
     "feed_url": "https://www.1stand7thfromescouts.org.uk/feed.json",
     "user_comment": "",
-    "icon": "https://www.1stand7thfromescouts.org.uk/media/website/The_Scout_Association_Logo_horizontally-2.png",
+    "icon": "https://www.1stand7thfromescouts.org.uk/media/website/276167669_367073238797212_5856046896101117340_n.png",
     "author": {
         "name": "Dave Bird"
     },
@@ -13,28 +13,30 @@
         {
             "id": "https://www.1stand7thfromescouts.org.uk/contacts/",
             "url": "https://www.1stand7thfromescouts.org.uk/contacts/",
-            "title": "Contacts",
-            "summary": "Useful Email Addresses If you would like to get in touch, please use one of the email addresses below and one&hellip;",
-            "content_html": "<h2 class=\"bt_bb_headline_tag\"><span class=\"bt_bb_headline_content\"><strong>Useful</strong> <u>Email Addresses</u></span></h2>\n<div class=\"bt_bb_headline_subheadline\">If you would like to get in touch, please use one of the email addresses below and one of our friendly scout leaders will be in touch with you as soon as they can.</div>\n<div> </div>\n<div>General Enquiries</div>\n<div><a href=\"mailto:scouts@1stand\">scouts@1stand7tfromescouts.org.uk</a></div>",
+            "title": "Contact Us",
+            "summary": "Useful Email Addresses If you would like to get in touch, please use one of the email addresses below and one of our friendly scout leaders will be in touch with you as soon as they can. General Enquiries enquiry@1stand7tfromescouts.org.uk Beavers beavers@1stand7tfromescouts.org.uk Cubs cubs@1stand7tfromescouts.org.uk Scouts scouts@1stand7tfromescouts.org.uk",
+            "content_html": "<h2 class=\"bt_bb_headline_tag\"><span class=\"bt_bb_headline_content\"><strong>Useful</strong> <u>Email Addresses</u></span></h2>\n<p> </p>\n<div class=\"bt_bb_headline_subheadline\">If you would like to get in touch, please use one of the email addresses below and one of our friendly scout leaders will be in touch with you as soon as they can.</div>\n<div> </div>\n<div>General Enquiries</div>\n<div><a href=\"mailto:enquiry@1stand7tfromescouts.org.uk\" rel=\"nofollow\">enquiry@1stand7tfromescouts.org.uk</a></div>\n<div> </div>\n<div>Beavers</div>\n<div><a href=\"mailto:beavers@1stand7tfromescouts.org.uk\">beavers@1stand7tfromescouts.org.uk</a></div>\n<div> </div>\n<div>Cubs</div>\n<div><a href=\"mailto:cubs@1stand7tfromescouts.org.uk\">cubs@1stand7tfromescouts.org.uk</a></div>\n<div> </div>\n<div>Scouts</div>\n<div><a href=\"mailto:scouts@1stand7tfromescouts.org.uk\">scouts@1stand7tfromescouts.org.uk</a></div>\n<div> </div>\n<div> </div>",
             "author": {
                 "name": "Dave Bird"
             },
             "tags": [
             ],
             "date_published": "2022-12-16T14:37:13+00:00",
-            "date_modified": "2022-12-16T14:37:13+00:00"
+            "date_modified": "2022-12-16T16:53:37+00:00"
         },
         {
             "id": "https://www.1stand7thfromescouts.org.uk/beavers/",
             "url": "https://www.1stand7thfromescouts.org.uk/beavers/",
             "title": "Beavers",
+            "summary": "Our Cubs and Scouts are now thriving and we're really hoping to be able to start Beavers soon! We are looking for new adult volunteers to be able to do this! Are you looking for a fun and exciting challenge? Or do you know someone&hellip;",
+            "content_html": "<div dir=\"auto\">Our Cubs and Scouts are now thriving and we're really hoping to be able to start Beavers soon!</div>\n<div dir=\"auto\"> </div>\n<div dir=\"auto\">We are looking for new adult volunteers to be able to do this! Are you looking for a fun and exciting challenge? Or do you know someone who could help?</div>\n<div dir=\"auto\"> </div>\n<div dir=\"auto\">Volunteer as much or as little as you're able, our Scouting team are all equally as important. We need your support to open.</div>\n<div dir=\"auto\"> </div>\n<div dir=\"auto\">Contact <a href=\"mailto:Hannah.Jackson@scouts.org.uk\">Hannah.Jackson@scouts.org.uk</a></div>\n<div dir=\"auto\"> </div>\n<div dir=\"auto\"> </div>\n<div dir=\"auto\"><a tabindex=\"-1\"></a>Interested in joining your young person to our Waiting List, for any section? Send us a message!</div>",
             "author": {
                 "name": "Dave Bird"
             },
             "tags": [
             ],
             "date_published": "2022-12-16T14:31:40+00:00",
-            "date_modified": "2022-12-16T14:31:40+00:00"
+            "date_modified": "2022-12-16T16:44:28+00:00"
         },
         {
             "id": "https://www.1stand7thfromescouts.org.uk/fame/",
@@ -59,7 +61,7 @@
                    "Cubs"
             ],
             "date_published": "2022-12-16T14:24:02+00:00",
-            "date_modified": "2022-12-16T15:14:52+00:00"
+            "date_modified": "2022-12-16T16:43:00+00:00"
         },
         {
             "id": "https://www.1stand7thfromescouts.org.uk/scouts/",
@@ -77,15 +79,16 @@
             "id": "https://www.1stand7thfromescouts.org.uk/1st-and-7th-frome-scouts/",
             "url": "https://www.1stand7thfromescouts.org.uk/1st-and-7th-frome-scouts/",
             "title": "1st and 7th (Jubilee)  Frome Scouts",
-            "summary": "Welcome to 1st and 7th Frome Scouts",
-            "content_html": "\n  <div  class=\"gallery-wrapper gallery-wrapper--full\">\n    <div class=\"gallery\" data-columns=\"4\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/302565139_440408924796976_4733882373156714516_n.jpg\" data-size=\"2048x1365\">\n        <img loading=\"lazy\" src=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/302565139_440408924796976_4733882373156714516_n-thumbnail.jpg\" height=\"512\" width=\"768\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/311712756_481637910674077_7166606110650183941_n.jpg\" data-size=\"627x889\">\n        <img loading=\"lazy\" src=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/311712756_481637910674077_7166606110650183941_n-thumbnail.jpg\" height=\"889\" width=\"627\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/317523245_508979391273262_3534125415479576235_n.jpg\" data-size=\"2048x1362\">\n        <img loading=\"lazy\" src=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/317523245_508979391273262_3534125415479576235_n-thumbnail.jpg\" height=\"511\" width=\"768\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/skynews-scouts-closure_5153896.jpg\" data-size=\"1600x900\">\n        <img loading=\"lazy\" src=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/skynews-scouts-closure_5153896-thumbnail.jpg\" height=\"432\" width=\"768\" alt=\"\" />\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p class=\"msg msg--info align-center\">\n    Welcome to 1st and 7th Frome Scouts\n  </p>",
+            "summary": "Welcome to 1st and 7th Frome Scouts group About 1st &amp; 7th Frome 'Jubilee' Scout Group Beavers (6-8yrs)🦫 Cubs (8-10½yrs)🐺 Cub Scout Packs are split into small groups called Sixes. Cubs take part in a wide range of activities designed to be interesting and challenging.",
+            "content_html": "\n  <div  class=\"gallery-wrapper gallery-wrapper--full\">\n    <div class=\"gallery\" data-columns=\"4\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/302565139_440408924796976_4733882373156714516_n.jpg\" data-size=\"2048x1365\">\n        <img loading=\"lazy\" src=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/302565139_440408924796976_4733882373156714516_n-thumbnail.jpg\" height=\"512\" width=\"768\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/311712756_481637910674077_7166606110650183941_n.jpg\" data-size=\"627x889\">\n        <img loading=\"lazy\" src=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/311712756_481637910674077_7166606110650183941_n-thumbnail.jpg\" height=\"889\" width=\"627\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/317523245_508979391273262_3534125415479576235_n.jpg\" data-size=\"2048x1362\">\n        <img loading=\"lazy\" src=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/317523245_508979391273262_3534125415479576235_n-thumbnail.jpg\" height=\"511\" width=\"768\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/skynews-scouts-closure_5153896.jpg\" data-size=\"1600x900\">\n        <img loading=\"lazy\" src=\"https://www.1stand7thfromescouts.org.uk/media/posts/1/gallery/skynews-scouts-closure_5153896-thumbnail.jpg\" height=\"432\" width=\"768\" alt=\"\" />\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p class=\"align-center\">\n    Welcome to 1st and 7th Frome Scouts group\n  </p>\n\n  <p>\n    About 1st &amp; 7th Frome 'Jubilee' Scout Group\n<br><br>Beavers (6-8yrs)🦫\n<br>\n<br>Cubs (8-10½yrs)🐺\n<br>Cub Scout Packs are split into small groups called Sixes. Cubs take part in a wide range of activities designed to be interesting and challenging. \n<br>Our Cubs have just restarted on Thursdays 6pm -7.30pm.\n<br>\n<br>Scouts (10½–14yrs)\n<br>Our Scout Troop consists of small units of six to eight Scouts called a Patrol, led by a Patrol Leader. Outdoor activities feature prominently, with the highlight being camping. Throughout the year, Scouts learn various skills, such as map reading, camp cooking and first aid in preparation for camp.\n<br>The Scout Section meets Monday's 7.30pm till 9pm.\n<br>\n<br>Interested? <a href=\"https://www.1stand7thfromescouts.org.uk/contacts/\">Get in touch!</a>\n  </p>",
             "author": {
                 "name": "Dave Bird"
             },
             "tags": [
+                   "Homepage"
             ],
             "date_published": "2022-12-16T14:22:33+00:00",
-            "date_modified": "2022-12-16T16:13:07+00:00"
+            "date_modified": "2022-12-16T16:43:24+00:00"
         }
     ]
 }
