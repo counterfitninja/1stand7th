@@ -75,16 +75,17 @@
         {
             "id": "https://counterfitninja.github.io/1stand7th/1st-and-7th-frome-scouts/",
             "url": "https://counterfitninja.github.io/1stand7th/1st-and-7th-frome-scouts/",
-            "title": "1st and 7th Frome Scouts",
+            "title": "Main Page",
             "summary": "test",
             "content_html": "\n  <p>\n    test\n  </p>",
+            "image": "https://counterfitninja.github.io/1stand7th/media/posts/1/skynews-scouts-closure_5153896.jpg",
             "author": {
                 "name": "Dave Bird"
             },
             "tags": [
             ],
             "date_published": "2022-12-16T14:22:33+00:00",
-            "date_modified": "2022-12-16T14:22:49+00:00"
+            "date_modified": "2022-12-16T15:05:40+00:00"
         }
     ]
 }
