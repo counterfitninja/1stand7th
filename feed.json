@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "1stand7thfrome",
     "description": "",
-    "home_page_url": "https://counterfitninja.github.io/1stand7th",
-    "feed_url": "https://counterfitninja.github.io/1stand7th/feed.json",
+    "home_page_url": "https://www.1stand7thfromescouts.org.uk",
+    "feed_url": "https://www.1stand7thfromescouts.org.uk/feed.json",
     "user_comment": "",
-    "icon": "https://counterfitninja.github.io/1stand7th/media/website/placeholder.svg",
+    "icon": "https://www.1stand7thfromescouts.org.uk/media/website/placeholder.svg",
     "author": {
         "name": "Dave Bird"
     },
     "items": [
         {
-            "id": "https://counterfitninja.github.io/1stand7th/contacts/",
-            "url": "https://counterfitninja.github.io/1stand7th/contacts/",
+            "id": "https://www.1stand7thfromescouts.org.uk/contacts/",
+            "url": "https://www.1stand7thfromescouts.org.uk/contacts/",
             "title": "Contacts",
             "summary": "Useful Email Addresses If you would like to get in touch, please use one of the email addresses below and one&hellip;",
             "content_html": "<h2 class=\"bt_bb_headline_tag\"><span class=\"bt_bb_headline_content\"><strong>Useful</strong> <u>Email Addresses</u></span></h2>\n<div class=\"bt_bb_headline_subheadline\">If you would like to get in touch, please use one of the email addresses below and one of our friendly scout leaders will be in touch with you as soon as they can.</div>\n<div> </div>\n<div>General Enquiries</div>\n<div><a href=\"mailto:scouts@1stand\">scouts@1stand7tfromescouts.org.uk</a></div>",
@@ -25,8 +25,8 @@
             "date_modified": "2022-12-16T14:37:13+00:00"
         },
         {
-            "id": "https://counterfitninja.github.io/1stand7th/beavers/",
-            "url": "https://counterfitninja.github.io/1stand7th/beavers/",
+            "id": "https://www.1stand7thfromescouts.org.uk/beavers/",
+            "url": "https://www.1stand7thfromescouts.org.uk/beavers/",
             "title": "Beavers",
             "author": {
                 "name": "Dave Bird"
@@ -37,8 +37,8 @@
             "date_modified": "2022-12-16T14:31:40+00:00"
         },
         {
-            "id": "https://counterfitninja.github.io/1stand7th/fame/",
-            "url": "https://counterfitninja.github.io/1stand7th/fame/",
+            "id": "https://www.1stand7thfromescouts.org.uk/fame/",
+            "url": "https://www.1stand7thfromescouts.org.uk/fame/",
             "title": "FAME",
             "author": {
                 "name": "Dave Bird"
@@ -49,8 +49,8 @@
             "date_modified": "2022-12-16T14:24:04+00:00"
         },
         {
-            "id": "https://counterfitninja.github.io/1stand7th/cubs/",
-            "url": "https://counterfitninja.github.io/1stand7th/cubs/",
+            "id": "https://www.1stand7thfromescouts.org.uk/cubs/",
+            "url": "https://www.1stand7thfromescouts.org.uk/cubs/",
             "title": "Cubs",
             "author": {
                 "name": "Dave Bird"
@@ -62,8 +62,8 @@
             "date_modified": "2022-12-16T15:14:52+00:00"
         },
         {
-            "id": "https://counterfitninja.github.io/1stand7th/scouts/",
-            "url": "https://counterfitninja.github.io/1stand7th/scouts/",
+            "id": "https://www.1stand7thfromescouts.org.uk/scouts/",
+            "url": "https://www.1stand7thfromescouts.org.uk/scouts/",
             "title": "Scouts",
             "author": {
                 "name": "Dave Bird"
@@ -74,12 +74,12 @@
             "date_modified": "2022-12-16T14:23:58+00:00"
         },
         {
-            "id": "https://counterfitninja.github.io/1stand7th/1st-and-7th-frome-scouts/",
-            "url": "https://counterfitninja.github.io/1stand7th/1st-and-7th-frome-scouts/",
+            "id": "https://www.1stand7thfromescouts.org.uk/1st-and-7th-frome-scouts/",
+            "url": "https://www.1stand7thfromescouts.org.uk/1st-and-7th-frome-scouts/",
             "title": "Main Page",
             "summary": "test",
             "content_html": "\n  <p>\n    test\n  </p>",
-            "image": "https://counterfitninja.github.io/1stand7th/media/posts/1/skynews-scouts-closure_5153896.jpg",
+            "image": "https://www.1stand7thfromescouts.org.uk/media/posts/1/skynews-scouts-closure_5153896.jpg",
             "author": {
                 "name": "Dave Bird"
             },

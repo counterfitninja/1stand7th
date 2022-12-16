@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>1stand7thfrome</title>
-    <link href="https://counterfitninja.github.io/1stand7th/feed.xml" rel="self" />
-    <link href="https://counterfitninja.github.io/1stand7th" />
+    <link href="https://www.1stand7thfromescouts.org.uk/feed.xml" rel="self" />
+    <link href="https://www.1stand7thfromescouts.org.uk" />
     <updated>2022-12-16T15:14:52+00:00</updated>
     <author>
         <name>Dave Bird</name>
     </author>
-    <id>https://counterfitninja.github.io/1stand7th</id>
+    <id>https://www.1stand7thfromescouts.org.uk</id>
 
     <entry>
         <title>Contacts</title>
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://counterfitninja.github.io/1stand7th/contacts/"/>
-        <id>https://counterfitninja.github.io/1stand7th/contacts/</id>
+        <link href="https://www.1stand7thfromescouts.org.uk/contacts/"/>
+        <id>https://www.1stand7thfromescouts.org.uk/contacts/</id>
 
         <updated>2022-12-16T14:37:13+00:00</updated>
             <summary>
@@ -38,8 +38,8 @@
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://counterfitninja.github.io/1stand7th/beavers/"/>
-        <id>https://counterfitninja.github.io/1stand7th/beavers/</id>
+        <link href="https://www.1stand7thfromescouts.org.uk/beavers/"/>
+        <id>https://www.1stand7thfromescouts.org.uk/beavers/</id>
 
         <updated>2022-12-16T14:31:40+00:00</updated>
             <summary></summary>
@@ -50,8 +50,8 @@
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://counterfitninja.github.io/1stand7th/fame/"/>
-        <id>https://counterfitninja.github.io/1stand7th/fame/</id>
+        <link href="https://www.1stand7thfromescouts.org.uk/fame/"/>
+        <id>https://www.1stand7thfromescouts.org.uk/fame/</id>
 
         <updated>2022-12-16T14:24:04+00:00</updated>
             <summary></summary>
@@ -62,8 +62,8 @@
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://counterfitninja.github.io/1stand7th/cubs/"/>
-        <id>https://counterfitninja.github.io/1stand7th/cubs/</id>
+        <link href="https://www.1stand7thfromescouts.org.uk/cubs/"/>
+        <id>https://www.1stand7thfromescouts.org.uk/cubs/</id>
             <category term="Cubs"/>
 
         <updated>2022-12-16T15:14:52+00:00</updated>
@@ -75,8 +75,8 @@
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://counterfitninja.github.io/1stand7th/scouts/"/>
-        <id>https://counterfitninja.github.io/1stand7th/scouts/</id>
+        <link href="https://www.1stand7thfromescouts.org.uk/scouts/"/>
+        <id>https://www.1stand7thfromescouts.org.uk/scouts/</id>
 
         <updated>2022-12-16T14:23:58+00:00</updated>
             <summary></summary>
@@ -87,19 +87,19 @@
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://counterfitninja.github.io/1stand7th/1st-and-7th-frome-scouts/"/>
-        <id>https://counterfitninja.github.io/1stand7th/1st-and-7th-frome-scouts/</id>
+        <link href="https://www.1stand7thfromescouts.org.uk/1st-and-7th-frome-scouts/"/>
+        <id>https://www.1stand7thfromescouts.org.uk/1st-and-7th-frome-scouts/</id>
 
         <updated>2022-12-16T15:07:00+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://counterfitninja.github.io/1stand7th/media/posts/1/skynews-scouts-closure_5153896.jpg" alt="" />
+                        <img src="https://www.1stand7thfromescouts.org.uk/media/posts/1/skynews-scouts-closure_5153896.jpg" alt="" />
                     test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://counterfitninja.github.io/1stand7th/media/posts/1/skynews-scouts-closure_5153896.jpg" alt="" />
+                    <img src="https://www.1stand7thfromescouts.org.uk/media/posts/1/skynews-scouts-closure_5153896.jpg" alt="" />
                 
   <p>
     test

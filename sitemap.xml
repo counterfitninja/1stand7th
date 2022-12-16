@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://counterfitninja.github.io/1stand7th/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.1stand7thfromescouts.org.uk/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://counterfitninja.github.io/1stand7th/</loc>
+<loc>https://www.1stand7thfromescouts.org.uk/</loc>
 </url>
 <url>
-<loc>https://counterfitninja.github.io/1stand7th/1st-and-7th-frome-scouts/</loc>
+<loc>https://www.1stand7thfromescouts.org.uk/1st-and-7th-frome-scouts/</loc>
 <lastmod>2022-12-16T15:07:00+00:00</lastmod>
 <image:image>
-<image:loc>https://counterfitninja.github.io/1stand7th/media\posts\1/skynews-scouts-closure_5153896.jpg</image:loc>
+<image:loc>https://www.1stand7thfromescouts.org.uk/media\posts\1/skynews-scouts-closure_5153896.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://counterfitninja.github.io/1stand7th/beavers/</loc>
+<loc>https://www.1stand7thfromescouts.org.uk/beavers/</loc>
 <lastmod>2022-12-16T14:31:40+00:00</lastmod>
 </url>
 <url>
-<loc>https://counterfitninja.github.io/1stand7th/contacts/</loc>
+<loc>https://www.1stand7thfromescouts.org.uk/contacts/</loc>
 <lastmod>2022-12-16T14:37:13+00:00</lastmod>
 </url>
 <url>
-<loc>https://counterfitninja.github.io/1stand7th/cubs/</loc>
+<loc>https://www.1stand7thfromescouts.org.uk/cubs/</loc>
 <lastmod>2022-12-16T15:14:52+00:00</lastmod>
 </url>
 <url>
-<loc>https://counterfitninja.github.io/1stand7th/fame/</loc>
+<loc>https://www.1stand7thfromescouts.org.uk/fame/</loc>
 <lastmod>2022-12-16T14:24:04+00:00</lastmod>
 </url>
 <url>
-<loc>https://counterfitninja.github.io/1stand7th/scouts/</loc>
+<loc>https://www.1stand7thfromescouts.org.uk/scouts/</loc>
 <lastmod>2022-12-16T14:23:58+00:00</lastmod>
 </url>
 </urlset>
