@@ -11,6 +11,46 @@
     },
     "items": [
         {
+            "id": "https://www.1stand7thfromescouts.org.uk/helpful-info-for-parents/",
+            "url": "https://www.1stand7thfromescouts.org.uk/helpful-info-for-parents/",
+            "title": "Scout HQ",
+            "summary": "Out Scout HQ is available for hire. ",
+            "content_html": "<p>Out Scout HQ is available for hire. </p>",
+            "author": {
+                "name": "Dave Bird"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-16T17:20:39+00:00",
+            "date_modified": "2022-12-16T17:22:45+00:00"
+        },
+        {
+            "id": "https://www.1stand7thfromescouts.org.uk/useful-links/",
+            "url": "https://www.1stand7thfromescouts.org.uk/useful-links/",
+            "title": "Useful Links",
+            "summary": "Online Scout manager",
+            "content_html": "<p><a href=\"https://www.onlinescoutmanager.co.uk/login.php\">Online Scout manager</a></p>",
+            "author": {
+                "name": "Dave Bird"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-16T17:19:56+00:00",
+            "date_modified": "2022-12-16T17:19:56+00:00"
+        },
+        {
+            "id": "https://www.1stand7thfromescouts.org.uk/about-us/",
+            "url": "https://www.1stand7thfromescouts.org.uk/about-us/",
+            "title": "About Us",
+            "author": {
+                "name": "Dave Bird"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-16T17:18:50+00:00",
+            "date_modified": "2022-12-16T17:18:50+00:00"
+        },
+        {
             "id": "https://www.1stand7thfromescouts.org.uk/cubs-2/",
             "url": "https://www.1stand7thfromescouts.org.uk/cubs-2/",
             "title": "Cubs - What does a pack look like?",

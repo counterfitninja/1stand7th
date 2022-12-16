@@ -3,12 +3,64 @@
     <title>1stand7thfrome</title>
     <link href="https://www.1stand7thfromescouts.org.uk/feed.xml" rel="self" />
     <link href="https://www.1stand7thfromescouts.org.uk" />
-    <updated>2022-12-16T17:15:43+00:00</updated>
+    <updated>2022-12-16T17:22:45+00:00</updated>
     <author>
         <name>Dave Bird</name>
     </author>
     <id>https://www.1stand7thfromescouts.org.uk</id>
 
+    <entry>
+        <title>Scout HQ</title>
+        <author>
+            <name>Dave Bird</name>
+        </author>
+        <link href="https://www.1stand7thfromescouts.org.uk/helpful-info-for-parents/"/>
+        <id>https://www.1stand7thfromescouts.org.uk/helpful-info-for-parents/</id>
+
+        <updated>2022-12-16T17:22:45+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Out Scout HQ is available for hire. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Out Scout HQ is available for hire. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Useful Links</title>
+        <author>
+            <name>Dave Bird</name>
+        </author>
+        <link href="https://www.1stand7thfromescouts.org.uk/useful-links/"/>
+        <id>https://www.1stand7thfromescouts.org.uk/useful-links/</id>
+
+        <updated>2022-12-16T17:19:56+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Online Scout manager
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://www.onlinescoutmanager.co.uk/login.php">Online Scout manager</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Us</title>
+        <author>
+            <name>Dave Bird</name>
+        </author>
+        <link href="https://www.1stand7thfromescouts.org.uk/about-us/"/>
+        <id>https://www.1stand7thfromescouts.org.uk/about-us/</id>
+
+        <updated>2022-12-16T17:18:50+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Cubs - What does a pack look like?</title>
         <author>
