@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>1stand7thfrome</title>
+    <title>1st and 7th Frome Scouts</title>
     <link href="https://www.1stand7thfromescouts.org.uk/feed.xml" rel="self" />
     <link href="https://www.1stand7thfromescouts.org.uk" />
-    <updated>2022-12-16T17:22:45+00:00</updated>
+    <updated>2022-12-16T17:27:08+00:00</updated>
     <author>
         <name>Dave Bird</name>
     </author>
@@ -17,15 +17,15 @@
         <link href="https://www.1stand7thfromescouts.org.uk/helpful-info-for-parents/"/>
         <id>https://www.1stand7thfromescouts.org.uk/helpful-info-for-parents/</id>
 
-        <updated>2022-12-16T17:22:45+00:00</updated>
+        <updated>2022-12-16T17:27:08+00:00</updated>
             <summary>
                 <![CDATA[
-                    Out Scout HQ is available for hire. 
+                    Our Scout HQ is available for hire. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Out Scout HQ is available for hire. </p>
+                <p>Our Scout HQ is available for hire. </p>
             ]]>
         </content>
     </entry>

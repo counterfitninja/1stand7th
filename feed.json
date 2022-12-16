@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "1stand7thfrome",
+    "title": "1st and 7th Frome Scouts",
     "description": "",
     "home_page_url": "https://www.1stand7thfromescouts.org.uk",
     "feed_url": "https://www.1stand7thfromescouts.org.uk/feed.json",
@@ -14,15 +14,15 @@
             "id": "https://www.1stand7thfromescouts.org.uk/helpful-info-for-parents/",
             "url": "https://www.1stand7thfromescouts.org.uk/helpful-info-for-parents/",
             "title": "Scout HQ",
-            "summary": "Out Scout HQ is available for hire. ",
-            "content_html": "<p>Out Scout HQ is available for hire. </p>",
+            "summary": "Our Scout HQ is available for hire. ",
+            "content_html": "<p>Our Scout HQ is available for hire. </p>",
             "author": {
                 "name": "Dave Bird"
             },
             "tags": [
             ],
             "date_published": "2022-12-16T17:20:39+00:00",
-            "date_modified": "2022-12-16T17:22:45+00:00"
+            "date_modified": "2022-12-16T17:27:08+00:00"
         },
         {
             "id": "https://www.1stand7thfromescouts.org.uk/useful-links/",
