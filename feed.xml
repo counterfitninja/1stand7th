@@ -3,7 +3,7 @@
     <title>1stand7thfrome</title>
     <link href="https://www.1stand7thfromescouts.org.uk/feed.xml" rel="self" />
     <link href="https://www.1stand7thfromescouts.org.uk" />
-    <updated>2022-12-16T17:13:44+00:00</updated>
+    <updated>2022-12-16T17:15:43+00:00</updated>
     <author>
         <name>Dave Bird</name>
     </author>
@@ -157,19 +157,7 @@
         </content>
     </entry>
     <entry>
-        <title>FAME</title>
-        <author>
-            <name>Dave Bird</name>
-        </author>
-        <link href="https://www.1stand7thfromescouts.org.uk/fame/"/>
-        <id>https://www.1stand7thfromescouts.org.uk/fame/</id>
-
-        <updated>2022-12-16T14:24:04+00:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Cubs</title>
+        <title>Cubs- Who are Cubs</title>
         <author>
             <name>Dave Bird</name>
         </author>
@@ -177,18 +165,16 @@
         <id>https://www.1stand7thfromescouts.org.uk/cubs/</id>
             <category term="Cubs"/>
 
-        <updated>2022-12-16T17:11:46+00:00</updated>
+        <updated>2022-12-16T17:15:28+00:00</updated>
             <summary>
                 <![CDATA[
-                    What Cubs Do Click below to find out. Who are Cubs? What do Cubs get up to? What does a pack look like? Cubs are young people aged 8 to 10½ who: Every week, they gather in groups called Cub Packs to take part in lots of&hellip;
+                    Who are Cubs? What do Cubs get up to? What does a pack look like? Cubs are young people aged 8 to 10½ who: Every week, they gather in groups called Cub Packs to take part in lots of interesting and challenging activities – achieving anything they&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <header class="bt_bb_headline bt_bb_font_weight_900 bt_bb_dash_top bt_bb_superheadline bt_bb_subheadline bt_bb_size_extralarge bt_bb_align_inherit" data-bt-override-class="{&quot;bt_bb_size_&quot;:{&quot;current_class&quot;:&quot;bt_bb_size_extralarge&quot;,&quot;xl&quot;:&quot;extralarge&quot;},&quot;bt_bb_align_&quot;:{&quot;current_class&quot;:&quot;bt_bb_align_inherit&quot;,&quot;xl&quot;:&quot;inherit&quot;}}"><address class="bt_bb_headline_subheadline"><strong><span style="color: #169179;">What </span><span style="color: #7614dd;">Cubs Do </span></strong></address></header>
-<div data-bt-override-class="null"> </div>
-<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium" data-bt-override-class="null">Click below to find out. </div>
-<div class="bt_bb_tabs bt_bb_style_simple bt_bb_shape_square" data-bt-override-class="{}"><br>
+                <header class="bt_bb_headline bt_bb_font_weight_900 bt_bb_dash_top bt_bb_superheadline bt_bb_subheadline bt_bb_size_extralarge bt_bb_align_inherit" data-bt-override-class="{&quot;bt_bb_size_&quot;:{&quot;current_class&quot;:&quot;bt_bb_size_extralarge&quot;,&quot;xl&quot;:&quot;extralarge&quot;},&quot;bt_bb_align_&quot;:{&quot;current_class&quot;:&quot;bt_bb_align_inherit&quot;,&quot;xl&quot;:&quot;inherit&quot;}}"></header>
+<div class="bt_bb_tabs bt_bb_style_simple bt_bb_shape_square" data-bt-override-class="{}">
 <table class="align-center" style="border-collapse: collapse; width: 100%; height: 106px; border-style: none;" border="0">
 <tbody>
 <tr style="height: 106px;">
@@ -219,7 +205,7 @@
         <link href="https://www.1stand7thfromescouts.org.uk/scouts/"/>
         <id>https://www.1stand7thfromescouts.org.uk/scouts/</id>
 
-        <updated>2022-12-16T14:23:58+00:00</updated>
+        <updated>2022-12-16T17:15:43+00:00</updated>
             <summary></summary>
         <content></content>
     </entry>
