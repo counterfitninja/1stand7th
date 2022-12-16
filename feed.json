@@ -56,9 +56,10 @@
                 "name": "Dave Bird"
             },
             "tags": [
+                   "Cubs"
             ],
             "date_published": "2022-12-16T14:24:02+00:00",
-            "date_modified": "2022-12-16T14:24:02+00:00"
+            "date_modified": "2022-12-16T15:14:52+00:00"
         },
         {
             "id": "https://counterfitninja.github.io/1stand7th/scouts/",
@@ -85,7 +86,7 @@
             "tags": [
             ],
             "date_published": "2022-12-16T14:22:33+00:00",
-            "date_modified": "2022-12-16T15:05:40+00:00"
+            "date_modified": "2022-12-16T15:07:00+00:00"
         }
     ]
 }

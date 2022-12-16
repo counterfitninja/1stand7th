@@ -3,7 +3,7 @@
     <title>1stand7thfrome</title>
     <link href="https://counterfitninja.github.io/1stand7th/feed.xml" rel="self" />
     <link href="https://counterfitninja.github.io/1stand7th" />
-    <updated>2022-12-16T15:05:40+00:00</updated>
+    <updated>2022-12-16T15:14:52+00:00</updated>
     <author>
         <name>Dave Bird</name>
     </author>
@@ -64,8 +64,9 @@
         </author>
         <link href="https://counterfitninja.github.io/1stand7th/cubs/"/>
         <id>https://counterfitninja.github.io/1stand7th/cubs/</id>
+            <category term="Cubs"/>
 
-        <updated>2022-12-16T14:24:02+00:00</updated>
+        <updated>2022-12-16T15:14:52+00:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -89,7 +90,7 @@
         <link href="https://counterfitninja.github.io/1stand7th/1st-and-7th-frome-scouts/"/>
         <id>https://counterfitninja.github.io/1stand7th/1st-and-7th-frome-scouts/</id>
 
-        <updated>2022-12-16T15:05:40+00:00</updated>
+        <updated>2022-12-16T15:07:00+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://counterfitninja.github.io/1stand7th/media/posts/1/skynews-scouts-closure_5153896.jpg" alt="" />
