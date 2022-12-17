@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>1st and 7th Frome Scouts</title>
-    <link href="https://www.1stand7thfromescouts.org.uk/feed.xml" rel="self" />
-    <link href="https://www.1stand7thfromescouts.org.uk" />
-    <updated>2022-12-16T21:36:55+00:00</updated>
+    <link href="https://github.1stand7thfromescouts.org.uk/feed.xml" rel="self" />
+    <link href="https://github.1stand7thfromescouts.org.uk" />
+    <updated>2022-12-17T13:59:46+00:00</updated>
     <author>
         <name>Dave Bird</name>
     </author>
-    <id>https://www.1stand7thfromescouts.org.uk</id>
+    <id>https://github.1stand7thfromescouts.org.uk</id>
 
     <entry>
         <title>About Us</title>
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://www.1stand7thfromescouts.org.uk/about-us-2/"/>
-        <id>https://www.1stand7thfromescouts.org.uk/about-us-2/</id>
+        <link href="https://github.1stand7thfromescouts.org.uk/about-us-2/"/>
+        <id>https://github.1stand7thfromescouts.org.uk/about-us-2/</id>
 
         <updated>2022-12-16T17:29:32+00:00</updated>
             <summary>
@@ -43,18 +43,19 @@
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://www.1stand7thfromescouts.org.uk/helpful-info-for-parents/"/>
-        <id>https://www.1stand7thfromescouts.org.uk/helpful-info-for-parents/</id>
+        <link href="https://github.1stand7thfromescouts.org.uk/helpful-info-for-parents/"/>
+        <id>https://github.1stand7thfromescouts.org.uk/helpful-info-for-parents/</id>
 
-        <updated>2022-12-16T17:27:08+00:00</updated>
+        <updated>2022-12-17T13:59:46+00:00</updated>
             <summary>
                 <![CDATA[
-                    Our Scout HQ is available for hire. 
+                    Our Scout HQ is available for hire. If this is something your interested in then please do get in touch with our HQ manager. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Our Scout HQ is available for hire. </p>
+<p>If this is something your interested in then please do get in touch with our HQ manager. </p>
             ]]>
         </content>
     </entry>
@@ -63,8 +64,8 @@
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://www.1stand7thfromescouts.org.uk/useful-links/"/>
-        <id>https://www.1stand7thfromescouts.org.uk/useful-links/</id>
+        <link href="https://github.1stand7thfromescouts.org.uk/useful-links/"/>
+        <id>https://github.1stand7thfromescouts.org.uk/useful-links/</id>
 
         <updated>2022-12-16T17:19:56+00:00</updated>
             <summary>
@@ -83,8 +84,8 @@
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://www.1stand7thfromescouts.org.uk/about-us/"/>
-        <id>https://www.1stand7thfromescouts.org.uk/about-us/</id>
+        <link href="https://github.1stand7thfromescouts.org.uk/about-us/"/>
+        <id>https://github.1stand7thfromescouts.org.uk/about-us/</id>
 
         <updated>2022-12-16T17:18:50+00:00</updated>
             <summary></summary>
@@ -95,8 +96,8 @@
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://www.1stand7thfromescouts.org.uk/cubs-2/"/>
-        <id>https://www.1stand7thfromescouts.org.uk/cubs-2/</id>
+        <link href="https://github.1stand7thfromescouts.org.uk/cubs-2/"/>
+        <id>https://github.1stand7thfromescouts.org.uk/cubs-2/</id>
             <category term="Cubs"/>
 
         <updated>2022-12-16T17:13:44+00:00</updated>
@@ -114,9 +115,9 @@
 <table class="align-center" style="border-collapse: collapse; width: 100%; height: 106px; border-style: none;" border="0">
 <tbody>
 <tr style="height: 106px;">
-<td style="width: 29.2439%; height: 106px;"><a href="https://www.1stand7thfromescouts.org.uk/cubs/">Who are Cubs?</a></td>
-<td style="width: 34.6631%; height: 106px;"><a href="https://www.1stand7thfromescouts.org.uk/cubs-3/">What do Cubs get up to?</a></td>
-<td style="width: 36.0929%; height: 106px;"><a href="https://www.1stand7thfromescouts.org.uk/cubs-2/">What does a pack look like?</a></td>
+<td style="width: 29.2439%; height: 106px;"><a href="https://github.1stand7thfromescouts.org.uk/cubs/">Who are Cubs?</a></td>
+<td style="width: 34.6631%; height: 106px;"><a href="https://github.1stand7thfromescouts.org.uk/cubs-3/">What do Cubs get up to?</a></td>
+<td style="width: 36.0929%; height: 106px;"><a href="https://github.1stand7thfromescouts.org.uk/cubs-2/">What does a pack look like?</a></td>
 </tr>
 </tbody>
 </table>
@@ -138,8 +139,8 @@
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://www.1stand7thfromescouts.org.uk/cubs-3/"/>
-        <id>https://www.1stand7thfromescouts.org.uk/cubs-3/</id>
+        <link href="https://github.1stand7thfromescouts.org.uk/cubs-3/"/>
+        <id>https://github.1stand7thfromescouts.org.uk/cubs-3/</id>
 
         <updated>2022-12-16T17:13:26+00:00</updated>
             <summary>
@@ -156,9 +157,9 @@
 <table class="align-center" style="border-collapse: collapse; width: 100%; height: 106px; border-style: none;" border="0">
 <tbody>
 <tr style="height: 106px;">
-<td style="width: 29.2439%; height: 106px;"><a href="https://www.1stand7thfromescouts.org.uk/cubs/">Who are Cubs?</a></td>
-<td style="width: 34.6631%; height: 106px;"><a href="https://www.1stand7thfromescouts.org.uk/cubs-3/">What do Cubs get up to?</a></td>
-<td style="width: 36.0929%; height: 106px;"><a href="https://www.1stand7thfromescouts.org.uk/cubs-2/">What does a pack look like?</a></td>
+<td style="width: 29.2439%; height: 106px;"><a href="https://github.1stand7thfromescouts.org.uk/cubs/">Who are Cubs?</a></td>
+<td style="width: 34.6631%; height: 106px;"><a href="https://github.1stand7thfromescouts.org.uk/cubs-3/">What do Cubs get up to?</a></td>
+<td style="width: 36.0929%; height: 106px;"><a href="https://github.1stand7thfromescouts.org.uk/cubs-2/">What does a pack look like?</a></td>
 </tr>
 </tbody>
 </table>
@@ -177,8 +178,8 @@
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://www.1stand7thfromescouts.org.uk/contacts/"/>
-        <id>https://www.1stand7thfromescouts.org.uk/contacts/</id>
+        <link href="https://github.1stand7thfromescouts.org.uk/contacts/"/>
+        <id>https://github.1stand7thfromescouts.org.uk/contacts/</id>
 
         <updated>2022-12-16T21:36:55+00:00</updated>
             <summary>
@@ -213,8 +214,8 @@
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://www.1stand7thfromescouts.org.uk/beavers/"/>
-        <id>https://www.1stand7thfromescouts.org.uk/beavers/</id>
+        <link href="https://github.1stand7thfromescouts.org.uk/beavers/"/>
+        <id>https://github.1stand7thfromescouts.org.uk/beavers/</id>
 
         <updated>2022-12-16T16:44:28+00:00</updated>
             <summary>
@@ -242,8 +243,8 @@
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://www.1stand7thfromescouts.org.uk/cubs/"/>
-        <id>https://www.1stand7thfromescouts.org.uk/cubs/</id>
+        <link href="https://github.1stand7thfromescouts.org.uk/cubs/"/>
+        <id>https://github.1stand7thfromescouts.org.uk/cubs/</id>
             <category term="Cubs"/>
 
         <updated>2022-12-16T17:15:28+00:00</updated>
@@ -259,9 +260,9 @@
 <table class="align-center" style="border-collapse: collapse; width: 100%; height: 106px; border-style: none;" border="0">
 <tbody>
 <tr style="height: 106px;">
-<td style="width: 29.2439%; height: 106px;"><a href="https://www.1stand7thfromescouts.org.uk/cubs/">Who are Cubs?</a></td>
-<td style="width: 34.6631%; height: 106px;"><a href="https://www.1stand7thfromescouts.org.uk/cubs-3/">What do Cubs get up to?</a></td>
-<td style="width: 36.0929%; height: 106px;"><a href="https://www.1stand7thfromescouts.org.uk/cubs-2/">What does a pack look like?</a></td>
+<td style="width: 29.2439%; height: 106px;"><a href="https://github.1stand7thfromescouts.org.uk/cubs/">Who are Cubs?</a></td>
+<td style="width: 34.6631%; height: 106px;"><a href="https://github.1stand7thfromescouts.org.uk/cubs-3/">What do Cubs get up to?</a></td>
+<td style="width: 36.0929%; height: 106px;"><a href="https://github.1stand7thfromescouts.org.uk/cubs-2/">What does a pack look like?</a></td>
 </tr>
 </tbody>
 </table>
@@ -283,8 +284,8 @@
         <author>
             <name>Dave Bird</name>
         </author>
-        <link href="https://www.1stand7thfromescouts.org.uk/scouts/"/>
-        <id>https://www.1stand7thfromescouts.org.uk/scouts/</id>
+        <link href="https://github.1stand7thfromescouts.org.uk/scouts/"/>
+        <id>https://github.1stand7thfromescouts.org.uk/scouts/</id>
 
         <updated>2022-12-16T17:15:43+00:00</updated>
             <summary></summary>

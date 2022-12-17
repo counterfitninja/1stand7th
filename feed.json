@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "1st and 7th Frome Scouts",
     "description": "",
-    "home_page_url": "https://www.1stand7thfromescouts.org.uk",
-    "feed_url": "https://www.1stand7thfromescouts.org.uk/feed.json",
+    "home_page_url": "https://github.1stand7thfromescouts.org.uk",
+    "feed_url": "https://github.1stand7thfromescouts.org.uk/feed.json",
     "user_comment": "",
-    "icon": "https://www.1stand7thfromescouts.org.uk/media/website/276167669_367073238797212_5856046896101117340_n.png",
+    "icon": "https://github.1stand7thfromescouts.org.uk/media/website/276167669_367073238797212_5856046896101117340_n.png",
     "author": {
         "name": "Dave Bird"
     },
     "items": [
         {
-            "id": "https://www.1stand7thfromescouts.org.uk/about-us-2/",
-            "url": "https://www.1stand7thfromescouts.org.uk/about-us-2/",
+            "id": "https://github.1stand7thfromescouts.org.uk/about-us-2/",
+            "url": "https://github.1stand7thfromescouts.org.uk/about-us-2/",
             "title": "About Us",
             "summary": "Scouts prepare young people for Skills For Life Each week Scouts gives almost half a million people aged 6-25 the skills they need for school, college, university, the job interview, the important speech, the tricky challenge and the big dreams: the skills they need for&hellip;",
             "content_html": "<h4>Scouts prepare young people for Skills For Life</h4>\n<p>Each week Scouts gives almost half a million people aged 6-25 the skills they need for school, college, university, the job interview, the important speech, the tricky challenge and the big dreams: the skills they need for life.</p>\n<p>We’re talking about teamwork, leadership and resilience &amp; skills that have helped Scouts become everything from teachers and social workers to astronauts and Olympians.</p>\n<p>Everyone’s welcome here. All genders, races and backgrounds. Regardless of your child’s physical ability – there’s a Scout adventure out there waiting for them. And we’ll help them find it.</p>\n<p>We’re part of a worldwide movement, creating stronger communities and inspiring positive futures.</p>\n<h4>What do Scouts do?</h4>\n<p>Scouts are do-ers and give-it-a-go-ers. Yes, we go camping, hiking, swimming, abseiling, cycling and canoeing. But we also get to hang out with our friends every week – having fun, playing games, working in a team and taking on new challenges.</p>\n<h4>Volunteers</h4>\n<p>There are lots of ways you can get involved, from helping out occasionally on a parent rota or volunteering your time as a leader to supporting local Scouting. Our volunteering opportunities are as varied as you! Because whether you’re helping a leader to run an activity in the local village hall, organising a night away, or buttering 120 slices of bread for a group of very hungry eleven year olds - no two Scout meetings are the same. The difference you make, though, is always great.</p>\n<p>Our award-winning training scheme for volunteers means that adults get as much from Scouts as young people. Our approach focuses on what you want to get out of volunteering with Scouts, while respecting how much time you can offer. Over 90% of Scout volunteers say that their skills and experiences have been useful in their work or personal life.</p>",
@@ -25,22 +25,22 @@
             "date_modified": "2022-12-16T17:29:32+00:00"
         },
         {
-            "id": "https://www.1stand7thfromescouts.org.uk/helpful-info-for-parents/",
-            "url": "https://www.1stand7thfromescouts.org.uk/helpful-info-for-parents/",
+            "id": "https://github.1stand7thfromescouts.org.uk/helpful-info-for-parents/",
+            "url": "https://github.1stand7thfromescouts.org.uk/helpful-info-for-parents/",
             "title": "Scout HQ",
-            "summary": "Our Scout HQ is available for hire. ",
-            "content_html": "<p>Our Scout HQ is available for hire. </p>",
+            "summary": "Our Scout HQ is available for hire. If this is something your interested in then please do get in touch with our HQ manager. ",
+            "content_html": "<p>Our Scout HQ is available for hire. </p>\n<p>If this is something your interested in then please do get in touch with our HQ manager. </p>",
             "author": {
                 "name": "Dave Bird"
             },
             "tags": [
             ],
             "date_published": "2022-12-16T17:20:39+00:00",
-            "date_modified": "2022-12-16T17:27:08+00:00"
+            "date_modified": "2022-12-17T13:59:46+00:00"
         },
         {
-            "id": "https://www.1stand7thfromescouts.org.uk/useful-links/",
-            "url": "https://www.1stand7thfromescouts.org.uk/useful-links/",
+            "id": "https://github.1stand7thfromescouts.org.uk/useful-links/",
+            "url": "https://github.1stand7thfromescouts.org.uk/useful-links/",
             "title": "Useful Links",
             "summary": "Online Scout manager",
             "content_html": "<p><a href=\"https://www.onlinescoutmanager.co.uk/login.php\">Online Scout manager</a></p>",
@@ -53,8 +53,8 @@
             "date_modified": "2022-12-16T17:19:56+00:00"
         },
         {
-            "id": "https://www.1stand7thfromescouts.org.uk/about-us/",
-            "url": "https://www.1stand7thfromescouts.org.uk/about-us/",
+            "id": "https://github.1stand7thfromescouts.org.uk/about-us/",
+            "url": "https://github.1stand7thfromescouts.org.uk/about-us/",
             "title": "About Us",
             "author": {
                 "name": "Dave Bird"
@@ -65,11 +65,11 @@
             "date_modified": "2022-12-16T17:18:50+00:00"
         },
         {
-            "id": "https://www.1stand7thfromescouts.org.uk/cubs-2/",
-            "url": "https://www.1stand7thfromescouts.org.uk/cubs-2/",
+            "id": "https://github.1stand7thfromescouts.org.uk/cubs-2/",
+            "url": "https://github.1stand7thfromescouts.org.uk/cubs-2/",
             "title": "Cubs - What does a pack look like?",
             "summary": "What Cubs Do Click below to find out. Who are Cubs? What do Cubs get up to? What does a pack look like? Cubs are young people aged 8 to 10½ who: Every week, they gather in groups called Cub Packs to take part in lots of&hellip;",
-            "content_html": "<header class=\"bt_bb_headline bt_bb_font_weight_900 bt_bb_dash_top bt_bb_superheadline bt_bb_subheadline bt_bb_size_extralarge bt_bb_align_inherit\" data-bt-override-class=\"{&quot;bt_bb_size_&quot;:{&quot;current_class&quot;:&quot;bt_bb_size_extralarge&quot;,&quot;xl&quot;:&quot;extralarge&quot;},&quot;bt_bb_align_&quot;:{&quot;current_class&quot;:&quot;bt_bb_align_inherit&quot;,&quot;xl&quot;:&quot;inherit&quot;}}\"><address class=\"bt_bb_headline_subheadline\"><strong><span style=\"color: #169179;\">What </span><span style=\"color: #7614dd;\">Cubs Do </span></strong></address></header>\n<div data-bt-override-class=\"null\"> </div>\n<div class=\"bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium\" data-bt-override-class=\"null\">Click below to find out. </div>\n<div class=\"bt_bb_tabs bt_bb_style_simple bt_bb_shape_square\" data-bt-override-class=\"{}\"><br>\n<table class=\"align-center\" style=\"border-collapse: collapse; width: 100%; height: 106px; border-style: none;\" border=\"0\">\n<tbody>\n<tr style=\"height: 106px;\">\n<td style=\"width: 29.2439%; height: 106px;\"><a href=\"https://www.1stand7thfromescouts.org.uk/cubs/\">Who are Cubs?</a></td>\n<td style=\"width: 34.6631%; height: 106px;\"><a href=\"https://www.1stand7thfromescouts.org.uk/cubs-3/\">What do Cubs get up to?</a></td>\n<td style=\"width: 36.0929%; height: 106px;\"><a href=\"https://www.1stand7thfromescouts.org.uk/cubs-2/\">What does a pack look like?</a></td>\n</tr>\n</tbody>\n</table>\n<p>Cubs are young people aged 8 to 10½ who:</p>\n<ul>\n<li>Master new skills and try new things</li>\n<li>Have fun and go on adventures</li>\n<li>Make friends</li>\n<li>Are curious about the world around them</li>\n<li>Help others and make a difference, in their own communities and beyond</li>\n</ul>\n<p>Every week, they gather in groups called <strong>Cub Packs</strong> to take part in lots of interesting and challenging activities – achieving anything they set their minds to, and having lots of fun along the way.</p>\n</div>",
+            "content_html": "<header class=\"bt_bb_headline bt_bb_font_weight_900 bt_bb_dash_top bt_bb_superheadline bt_bb_subheadline bt_bb_size_extralarge bt_bb_align_inherit\" data-bt-override-class=\"{&quot;bt_bb_size_&quot;:{&quot;current_class&quot;:&quot;bt_bb_size_extralarge&quot;,&quot;xl&quot;:&quot;extralarge&quot;},&quot;bt_bb_align_&quot;:{&quot;current_class&quot;:&quot;bt_bb_align_inherit&quot;,&quot;xl&quot;:&quot;inherit&quot;}}\"><address class=\"bt_bb_headline_subheadline\"><strong><span style=\"color: #169179;\">What </span><span style=\"color: #7614dd;\">Cubs Do </span></strong></address></header>\n<div data-bt-override-class=\"null\"> </div>\n<div class=\"bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium\" data-bt-override-class=\"null\">Click below to find out. </div>\n<div class=\"bt_bb_tabs bt_bb_style_simple bt_bb_shape_square\" data-bt-override-class=\"{}\"><br>\n<table class=\"align-center\" style=\"border-collapse: collapse; width: 100%; height: 106px; border-style: none;\" border=\"0\">\n<tbody>\n<tr style=\"height: 106px;\">\n<td style=\"width: 29.2439%; height: 106px;\"><a href=\"https://github.1stand7thfromescouts.org.uk/cubs/\">Who are Cubs?</a></td>\n<td style=\"width: 34.6631%; height: 106px;\"><a href=\"https://github.1stand7thfromescouts.org.uk/cubs-3/\">What do Cubs get up to?</a></td>\n<td style=\"width: 36.0929%; height: 106px;\"><a href=\"https://github.1stand7thfromescouts.org.uk/cubs-2/\">What does a pack look like?</a></td>\n</tr>\n</tbody>\n</table>\n<p>Cubs are young people aged 8 to 10½ who:</p>\n<ul>\n<li>Master new skills and try new things</li>\n<li>Have fun and go on adventures</li>\n<li>Make friends</li>\n<li>Are curious about the world around them</li>\n<li>Help others and make a difference, in their own communities and beyond</li>\n</ul>\n<p>Every week, they gather in groups called <strong>Cub Packs</strong> to take part in lots of interesting and challenging activities – achieving anything they set their minds to, and having lots of fun along the way.</p>\n</div>",
             "author": {
                 "name": "Dave Bird"
             },
@@ -80,11 +80,11 @@
             "date_modified": "2022-12-16T17:13:44+00:00"
         },
         {
-            "id": "https://www.1stand7thfromescouts.org.uk/cubs-3/",
-            "url": "https://www.1stand7thfromescouts.org.uk/cubs-3/",
+            "id": "https://github.1stand7thfromescouts.org.uk/cubs-3/",
+            "url": "https://github.1stand7thfromescouts.org.uk/cubs-3/",
             "title": "Cubs - What do Cubs get up to?",
             "summary": "What Cubs Do Click below to find out. Who are Cubs? What do Cubs get up to? What does a pack look like? Going on adventures Race down a river. Tell stories by torchlight. Fall asleep beneath the stars. Alongside your Pack, you’ll spend plenty&hellip;",
-            "content_html": "<header class=\"bt_bb_headline bt_bb_font_weight_900 bt_bb_dash_top bt_bb_superheadline bt_bb_subheadline bt_bb_size_extralarge bt_bb_align_inherit\" data-bt-override-class=\"{&quot;bt_bb_size_&quot;:{&quot;current_class&quot;:&quot;bt_bb_size_extralarge&quot;,&quot;xl&quot;:&quot;extralarge&quot;},&quot;bt_bb_align_&quot;:{&quot;current_class&quot;:&quot;bt_bb_align_inherit&quot;,&quot;xl&quot;:&quot;inherit&quot;}}\"><address class=\"bt_bb_headline_subheadline\"><strong><span style=\"color: #169179;\">What </span><span style=\"color: #7614dd;\">Cubs Do </span></strong></address></header>\n<div data-bt-override-class=\"null\"> </div>\n<div class=\"bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium\" data-bt-override-class=\"null\">Click below to find out. </div>\n<div class=\"bt_bb_tabs bt_bb_style_simple bt_bb_shape_square\" data-bt-override-class=\"{}\"><br>\n<table class=\"align-center\" style=\"border-collapse: collapse; width: 100%; height: 106px; border-style: none;\" border=\"0\">\n<tbody>\n<tr style=\"height: 106px;\">\n<td style=\"width: 29.2439%; height: 106px;\"><a href=\"https://www.1stand7thfromescouts.org.uk/cubs/\">Who are Cubs?</a></td>\n<td style=\"width: 34.6631%; height: 106px;\"><a href=\"https://www.1stand7thfromescouts.org.uk/cubs-3/\">What do Cubs get up to?</a></td>\n<td style=\"width: 36.0929%; height: 106px;\"><a href=\"https://www.1stand7thfromescouts.org.uk/cubs-2/\">What does a pack look like?</a></td>\n</tr>\n</tbody>\n</table>\n<p><strong>Going on adventures</strong></p>\n<p>Race down a river. Tell stories by torchlight. Fall asleep beneath the stars. Alongside your Pack, you’ll spend plenty of time in the great outdoors. Together, you might build a den in your local park, or create an edible raft out of sweets, or go on a moonlit hike through your hometown.</p>\n<p><strong>Learning new skills</strong></p>\n<p>Cubs learn by doing, and so will you. Some of the skills you develop will be practical, like knowing how to cook a delicious meal or give someone first aid.</p>\n<p><strong>Helping others</strong></p>\n<p>Cubs work as a team to help other people. Together, you’ll learn about global issues and what we can all do to help solve them.</p>\n</div>",
+            "content_html": "<header class=\"bt_bb_headline bt_bb_font_weight_900 bt_bb_dash_top bt_bb_superheadline bt_bb_subheadline bt_bb_size_extralarge bt_bb_align_inherit\" data-bt-override-class=\"{&quot;bt_bb_size_&quot;:{&quot;current_class&quot;:&quot;bt_bb_size_extralarge&quot;,&quot;xl&quot;:&quot;extralarge&quot;},&quot;bt_bb_align_&quot;:{&quot;current_class&quot;:&quot;bt_bb_align_inherit&quot;,&quot;xl&quot;:&quot;inherit&quot;}}\"><address class=\"bt_bb_headline_subheadline\"><strong><span style=\"color: #169179;\">What </span><span style=\"color: #7614dd;\">Cubs Do </span></strong></address></header>\n<div data-bt-override-class=\"null\"> </div>\n<div class=\"bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium\" data-bt-override-class=\"null\">Click below to find out. </div>\n<div class=\"bt_bb_tabs bt_bb_style_simple bt_bb_shape_square\" data-bt-override-class=\"{}\"><br>\n<table class=\"align-center\" style=\"border-collapse: collapse; width: 100%; height: 106px; border-style: none;\" border=\"0\">\n<tbody>\n<tr style=\"height: 106px;\">\n<td style=\"width: 29.2439%; height: 106px;\"><a href=\"https://github.1stand7thfromescouts.org.uk/cubs/\">Who are Cubs?</a></td>\n<td style=\"width: 34.6631%; height: 106px;\"><a href=\"https://github.1stand7thfromescouts.org.uk/cubs-3/\">What do Cubs get up to?</a></td>\n<td style=\"width: 36.0929%; height: 106px;\"><a href=\"https://github.1stand7thfromescouts.org.uk/cubs-2/\">What does a pack look like?</a></td>\n</tr>\n</tbody>\n</table>\n<p><strong>Going on adventures</strong></p>\n<p>Race down a river. Tell stories by torchlight. Fall asleep beneath the stars. Alongside your Pack, you’ll spend plenty of time in the great outdoors. Together, you might build a den in your local park, or create an edible raft out of sweets, or go on a moonlit hike through your hometown.</p>\n<p><strong>Learning new skills</strong></p>\n<p>Cubs learn by doing, and so will you. Some of the skills you develop will be practical, like knowing how to cook a delicious meal or give someone first aid.</p>\n<p><strong>Helping others</strong></p>\n<p>Cubs work as a team to help other people. Together, you’ll learn about global issues and what we can all do to help solve them.</p>\n</div>",
             "author": {
                 "name": "Dave Bird"
             },
@@ -94,8 +94,8 @@
             "date_modified": "2022-12-16T17:13:26+00:00"
         },
         {
-            "id": "https://www.1stand7thfromescouts.org.uk/contacts/",
-            "url": "https://www.1stand7thfromescouts.org.uk/contacts/",
+            "id": "https://github.1stand7thfromescouts.org.uk/contacts/",
+            "url": "https://github.1stand7thfromescouts.org.uk/contacts/",
             "title": "Contact Us",
             "summary": "Useful Email Addresses If you would like to get in touch, please use one of the email addresses below and one of our friendly scout leaders will be in touch with you as soon as they can. General Enquiries enquiry@1stand7thfromescouts.org.uk Beavers beavers@1stand7thfromescouts.org.uk Cubs cubs@1stand7thfromescouts.org.uk Scouts scouts@1stand7thfromescouts.org.uk",
             "content_html": "<h2 class=\"bt_bb_headline_tag\"><span class=\"bt_bb_headline_content\"><strong>Useful</strong> <u>Email Addresses</u></span></h2>\n<p> </p>\n<div class=\"bt_bb_headline_subheadline\">If you would like to get in touch, please use one of the email addresses below and one of our friendly scout leaders will be in touch with you as soon as they can.</div>\n<div> </div>\n<div>General Enquiries</div>\n<div><a href=\"mailto:enquiry@1stand7thfromescouts.org.uk\">enquiry@1stand7thfromescouts.org.uk</a></div>\n<div> </div>\n<div>Beavers</div>\n<div><a href=\"mailto:beavers@1stand7thfromescouts.org.uk\">beavers@1stand7thfromescouts.org.uk</a></div>\n<div> </div>\n<div>Cubs</div>\n<div><a href=\"mailto:cubs@1stand7thfromescouts.org.uk\">cubs@1stand7thfromescouts.org.uk</a></div>\n<div> </div>\n<div>Scouts</div>\n<div><a href=\"mailto:scouts@1stand7thfromescouts.org.uk\">scouts@1stand7thfromescouts.org.uk</a></div>\n<div> </div>\n<div> </div>",
@@ -108,8 +108,8 @@
             "date_modified": "2022-12-16T21:36:55+00:00"
         },
         {
-            "id": "https://www.1stand7thfromescouts.org.uk/beavers/",
-            "url": "https://www.1stand7thfromescouts.org.uk/beavers/",
+            "id": "https://github.1stand7thfromescouts.org.uk/beavers/",
+            "url": "https://github.1stand7thfromescouts.org.uk/beavers/",
             "title": "Beavers",
             "summary": "Our Cubs and Scouts are now thriving and we're really hoping to be able to start Beavers soon! We are looking for new adult volunteers to be able to do this! Are you looking for a fun and exciting challenge? Or do you know someone&hellip;",
             "content_html": "<div dir=\"auto\">Our Cubs and Scouts are now thriving and we're really hoping to be able to start Beavers soon!</div>\n<div dir=\"auto\"> </div>\n<div dir=\"auto\">We are looking for new adult volunteers to be able to do this! Are you looking for a fun and exciting challenge? Or do you know someone who could help?</div>\n<div dir=\"auto\"> </div>\n<div dir=\"auto\">Volunteer as much or as little as you're able, our Scouting team are all equally as important. We need your support to open.</div>\n<div dir=\"auto\"> </div>\n<div dir=\"auto\">Contact <a href=\"mailto:Hannah.Jackson@scouts.org.uk\">Hannah.Jackson@scouts.org.uk</a></div>\n<div dir=\"auto\"> </div>\n<div dir=\"auto\"> </div>\n<div dir=\"auto\"><a tabindex=\"-1\"></a>Interested in joining your young person to our Waiting List, for any section? Send us a message!</div>",
@@ -122,11 +122,11 @@
             "date_modified": "2022-12-16T16:44:28+00:00"
         },
         {
-            "id": "https://www.1stand7thfromescouts.org.uk/cubs/",
-            "url": "https://www.1stand7thfromescouts.org.uk/cubs/",
+            "id": "https://github.1stand7thfromescouts.org.uk/cubs/",
+            "url": "https://github.1stand7thfromescouts.org.uk/cubs/",
             "title": "Cubs- Who are Cubs",
             "summary": "Who are Cubs? What do Cubs get up to? What does a pack look like? Cubs are young people aged 8 to 10½ who: Every week, they gather in groups called Cub Packs to take part in lots of interesting and challenging activities – achieving anything they&hellip;",
-            "content_html": "<header class=\"bt_bb_headline bt_bb_font_weight_900 bt_bb_dash_top bt_bb_superheadline bt_bb_subheadline bt_bb_size_extralarge bt_bb_align_inherit\" data-bt-override-class=\"{&quot;bt_bb_size_&quot;:{&quot;current_class&quot;:&quot;bt_bb_size_extralarge&quot;,&quot;xl&quot;:&quot;extralarge&quot;},&quot;bt_bb_align_&quot;:{&quot;current_class&quot;:&quot;bt_bb_align_inherit&quot;,&quot;xl&quot;:&quot;inherit&quot;}}\"></header>\n<div class=\"bt_bb_tabs bt_bb_style_simple bt_bb_shape_square\" data-bt-override-class=\"{}\">\n<table class=\"align-center\" style=\"border-collapse: collapse; width: 100%; height: 106px; border-style: none;\" border=\"0\">\n<tbody>\n<tr style=\"height: 106px;\">\n<td style=\"width: 29.2439%; height: 106px;\"><a href=\"https://www.1stand7thfromescouts.org.uk/cubs/\">Who are Cubs?</a></td>\n<td style=\"width: 34.6631%; height: 106px;\"><a href=\"https://www.1stand7thfromescouts.org.uk/cubs-3/\">What do Cubs get up to?</a></td>\n<td style=\"width: 36.0929%; height: 106px;\"><a href=\"https://www.1stand7thfromescouts.org.uk/cubs-2/\">What does a pack look like?</a></td>\n</tr>\n</tbody>\n</table>\n<p>Cubs are young people aged 8 to 10½ who:</p>\n<ul>\n<li>Master new skills and try new things</li>\n<li>Have fun and go on adventures</li>\n<li>Make friends</li>\n<li>Are curious about the world around them</li>\n<li>Help others and make a difference, in their own communities and beyond</li>\n</ul>\n<p>Every week, they gather in groups called <strong>Cub Packs</strong> to take part in lots of interesting and challenging activities – achieving anything they set their minds to, and having lots of fun along the way.</p>\n</div>",
+            "content_html": "<header class=\"bt_bb_headline bt_bb_font_weight_900 bt_bb_dash_top bt_bb_superheadline bt_bb_subheadline bt_bb_size_extralarge bt_bb_align_inherit\" data-bt-override-class=\"{&quot;bt_bb_size_&quot;:{&quot;current_class&quot;:&quot;bt_bb_size_extralarge&quot;,&quot;xl&quot;:&quot;extralarge&quot;},&quot;bt_bb_align_&quot;:{&quot;current_class&quot;:&quot;bt_bb_align_inherit&quot;,&quot;xl&quot;:&quot;inherit&quot;}}\"></header>\n<div class=\"bt_bb_tabs bt_bb_style_simple bt_bb_shape_square\" data-bt-override-class=\"{}\">\n<table class=\"align-center\" style=\"border-collapse: collapse; width: 100%; height: 106px; border-style: none;\" border=\"0\">\n<tbody>\n<tr style=\"height: 106px;\">\n<td style=\"width: 29.2439%; height: 106px;\"><a href=\"https://github.1stand7thfromescouts.org.uk/cubs/\">Who are Cubs?</a></td>\n<td style=\"width: 34.6631%; height: 106px;\"><a href=\"https://github.1stand7thfromescouts.org.uk/cubs-3/\">What do Cubs get up to?</a></td>\n<td style=\"width: 36.0929%; height: 106px;\"><a href=\"https://github.1stand7thfromescouts.org.uk/cubs-2/\">What does a pack look like?</a></td>\n</tr>\n</tbody>\n</table>\n<p>Cubs are young people aged 8 to 10½ who:</p>\n<ul>\n<li>Master new skills and try new things</li>\n<li>Have fun and go on adventures</li>\n<li>Make friends</li>\n<li>Are curious about the world around them</li>\n<li>Help others and make a difference, in their own communities and beyond</li>\n</ul>\n<p>Every week, they gather in groups called <strong>Cub Packs</strong> to take part in lots of interesting and challenging activities – achieving anything they set their minds to, and having lots of fun along the way.</p>\n</div>",
             "author": {
                 "name": "Dave Bird"
             },
@@ -137,8 +137,8 @@
             "date_modified": "2022-12-16T17:15:28+00:00"
         },
         {
-            "id": "https://www.1stand7thfromescouts.org.uk/scouts/",
-            "url": "https://www.1stand7thfromescouts.org.uk/scouts/",
+            "id": "https://github.1stand7thfromescouts.org.uk/scouts/",
+            "url": "https://github.1stand7thfromescouts.org.uk/scouts/",
             "title": "Scouts",
             "author": {
                 "name": "Dave Bird"
