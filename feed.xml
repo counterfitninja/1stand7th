@@ -3,7 +3,7 @@
     <title>1st and 7th Frome Scouts</title>
     <link href="https://www.1stand7thfromescouts.org.uk/feed.xml" rel="self" />
     <link href="https://www.1stand7thfromescouts.org.uk" />
-    <updated>2022-12-30T08:49:34+00:00</updated>
+    <updated>2023-01-19T21:37:18+00:00</updated>
     <author>
         <name>Dave Bird</name>
     </author>
@@ -51,16 +51,23 @@
         <link href="https://www.1stand7thfromescouts.org.uk/helpful-info-for-parents/"/>
         <id>https://www.1stand7thfromescouts.org.uk/helpful-info-for-parents/</id>
 
-        <updated>2022-12-17T13:59:46+00:00</updated>
+        <updated>2023-01-19T21:37:18+00:00</updated>
             <summary>
                 <![CDATA[
-                    Our Scout HQ is available for hire. If this is something your interested in then please do get in touch with our HQ manager. 
+                    Available to hire for children's parties, functions, meetings, groups or anything else you may need a hall for? If you would like a look inside or for more information contact the hut manager: hq@1stand7thfromescouts.org.uk
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Our Scout HQ is available for hire. </p>
-<p>If this is something your interested in then please do get in touch with our HQ manager. </p>
+                <figure class="post__image align-center"><img loading="lazy"  src="https://www.1stand7thfromescouts.org.uk/media/posts/11/Picture1.png" alt="" width="149" height="188" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.1stand7thfromescouts.org.uk/media/posts/11/responsive/Picture1-xs.png 300w ,https://www.1stand7thfromescouts.org.uk/media/posts/11/responsive/Picture1-sm.png 480w ,https://www.1stand7thfromescouts.org.uk/media/posts/11/responsive/Picture1-md.png 768w ,https://www.1stand7thfromescouts.org.uk/media/posts/11/responsive/Picture1-lg.png 1024w ,https://www.1stand7thfromescouts.org.uk/media/posts/11/responsive/Picture1-xl.png 1360w ,https://www.1stand7thfromescouts.org.uk/media/posts/11/responsive/Picture1-2xl.png 1600w"></figure>
+<p>Available to hire for children's parties, functions, meetings, groups or anything else you may need a hall for?</p>
+<ul>
+<li>Fully equipped kitchen</li>
+<li>Plenty of tables and chairs</li>
+<li>Lots of parking</li>
+<li>Very reasonable rate’s!</li>
+</ul>
+<p><br> If you would like a look inside or for more information contact the hut manager:<br><br><a href="mailto:hq@1stand7thfromescouts.org.uk">hq@1stand7thfromescouts.org.uk</a><br> </p>
             ]]>
         </content>
     </entry>
