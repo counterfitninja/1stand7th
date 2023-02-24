@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://www.1stand7thfromescouts.org.uk/waiting-list/",
+            "url": "https://www.1stand7thfromescouts.org.uk/waiting-list/",
+            "title": "Waiting List",
+            "summary": "Adjust width and height of iframe to fit with content in it using JavaScript",
+            "content_html": "<div>\n<h4 style=\"color: #006400; font-size: 24px;\">Adjust width and height of iframe to fit with content in it using JavaScript</h4>\n</div>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"width: 100%; border: 3px solid black;\" src=\"https://www.onlinescoutmanager.co.uk/waiting-list/1st-and-7th-frome-jubilee-scout-group-group-waiting-list/7118e404-2570-49a6-a123-361dc23330a0/apply\" id=\"Iframe\"></iframe></div>\n<!--iframe tag-->\n<p>\n<script>\n\t\t// Selecting the iframe element\n\t\tvar frame = document.getElementById(\"Iframe\");\n\n\t\t// Adjusting the iframe height onload event\n\t\tframe.onload = function()\n\t\t// function execute while load the iframe\n\t\t{\n\t\t\t// set the height of the iframe as\n\t\t\t// the height of the iframe content\n\t\t\tframe.style.height =\n\t\t\t\tframe.contentWindow.document.body.scrollHeight + 'px';\n\n\n\t\t\t// set the width of the iframe as the\n\t\t\t// width of the iframe content\n\t\t\tframe.style.width =\n\t\t\t\tframe.contentWindow.document.body.scrollWidth + 'px';\n\n\t\t}\n\t</script>\n</p>",
+            "author": {
+                "name": "Dave Bird"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-24T13:37:24+00:00",
+            "date_modified": "2023-02-24T13:49:37+00:00"
+        },
+        {
             "id": "https://www.1stand7thfromescouts.org.uk/about-us-2/",
             "url": "https://www.1stand7thfromescouts.org.uk/about-us-2/",
             "title": "About Us",
@@ -135,20 +149,6 @@
             ],
             "date_published": "2022-12-16T14:24:02+00:00",
             "date_modified": "2022-12-19T14:52:53+00:00"
-        },
-        {
-            "id": "https://www.1stand7thfromescouts.org.uk/scouts/",
-            "url": "https://www.1stand7thfromescouts.org.uk/scouts/",
-            "title": "Scouts",
-            "summary": "Who are Scouts? Scouts are a go-getting group of young people aged 10 ½ to 14 who: Week in and week out, they gather in groups called Scout Troops to conquer the small task of changing the world. We meet at the 1st and 7th Scout&hellip;",
-            "content_html": "<div class=\"row mb-5\">\n<div class=\"col-12 col-sm-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2\">\n<h2>Who are Scouts?</h2>\n</div>\n</div>\n<section class=\"content-grid\">\n<div class=\"row\">\n<div class=\"col-12 col-sm-12 offset-sm-0 col-md-8 offset-md-0 pr-md-4 col-lg-8 offset-lg-0 col-xl-6 offset-xl-1\">\n<div class=\"content-root\">\n<p>Scouts are a go-getting group of young people aged 10 ½ to 14 who: </p>\n<ul>\n<li>Master new skills and try new things</li>\n<li>Make new friends</li>\n<li>Have fun and go on adventures, at home and abroad</li>\n<li>Explore the world around them</li>\n<li>Help others and make a difference, in their own communities and beyond</li>\n</ul>\n<p><br>Week in and week out, they gather in groups called Scout Troops to conquer the small task of changing the world.</p>\n<p>We meet at the 1st and 7th Scout hut on Welsh Mill Lane on Mon 7:30 – 9pm</p>\n</div>\n</div>\n</div>\n</section>",
-            "author": {
-                "name": "Dave Bird"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-12-16T14:23:58+00:00",
-            "date_modified": "2023-02-06T11:08:14+00:00"
         }
     ]
 }
