@@ -14,15 +14,14 @@
             "id": "https://www.1stand7thfromescouts.org.uk/waiting-list/",
             "url": "https://www.1stand7thfromescouts.org.uk/waiting-list/",
             "title": "Waiting List",
-            "summary": "Adjust width and height of iframe to fit with content in it using JavaScript",
-            "content_html": "<div>\n<h4 style=\"color: #006400; font-size: 24px;\">Adjust width and height of iframe to fit with content in it using JavaScript</h4>\n</div>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"width: 100%; border: 3px solid black;\" src=\"https://www.onlinescoutmanager.co.uk/waiting-list/1st-and-7th-frome-jubilee-scout-group-group-waiting-list/7118e404-2570-49a6-a123-361dc23330a0/apply\" id=\"Iframe\"></iframe></div>\n<!--iframe tag-->\n<p>\n<script>\n\t\t// Selecting the iframe element\n\t\tvar frame = document.getElementById(\"Iframe\");\n\n\t\t// Adjusting the iframe height onload event\n\t\tframe.onload = function()\n\t\t// function execute while load the iframe\n\t\t{\n\t\t\t// set the height of the iframe as\n\t\t\t// the height of the iframe content\n\t\t\tframe.style.height =\n\t\t\t\tframe.contentWindow.document.body.scrollHeight + 'px';\n\n\n\t\t\t// set the width of the iframe as the\n\t\t\t// width of the iframe content\n\t\t\tframe.style.width =\n\t\t\t\tframe.contentWindow.document.body.scrollWidth + 'px';\n\n\t\t}\n\t</script>\n</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"997\" height=\"997\" style=\"transform: scale(1); width: 997px; height: 997px;\" frameborder=\"0\" scrolling=\"no\" src=\"https://www.onlinescoutmanager.co.uk/waiting-list/1st-and-7th-frome-jubilee-scout-group-group-waiting-list/7118e404-2570-49a6-a123-361dc23330a0/apply\"></iframe></div>",
             "author": {
                 "name": "Dave Bird"
             },
             "tags": [
             ],
             "date_published": "2023-02-24T13:37:24+00:00",
-            "date_modified": "2023-02-24T13:49:37+00:00"
+            "date_modified": "2023-02-24T14:03:19+00:00"
         },
         {
             "id": "https://www.1stand7thfromescouts.org.uk/about-us-2/",
