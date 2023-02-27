@@ -3,7 +3,7 @@
     <title>1st and 7th Frome Scouts</title>
     <link href="https://www.1stand7thfromescouts.org.uk/feed.xml" rel="self" />
     <link href="https://www.1stand7thfromescouts.org.uk" />
-    <updated>2023-02-24T14:08:59+00:00</updated>
+    <updated>2023-02-27T09:15:14+00:00</updated>
     <author>
         <name>Dave Bird</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.1stand7thfromescouts.org.uk/waiting-list/"/>
         <id>https://www.1stand7thfromescouts.org.uk/waiting-list/</id>
 
-        <updated>2023-02-24T14:08:59+00:00</updated>
+        <updated>2023-02-27T09:15:14+00:00</updated>
             <summary>
                 <![CDATA[
                     If you wish to be added to our waiting list for all sections then please do fill in the form below. If this is not showing for wany reason then please click here which will open a separate link on Online Scout manager. ( We&hellip;
@@ -26,7 +26,8 @@
         <content type="html">
             <![CDATA[
                 <p>If you wish to be added to our waiting list for all sections then please do fill in the form below. If this is not showing for wany reason then please click here which will open a separate link on <a href="https://www.onlinescoutmanager.co.uk/waiting-list/1st-and-7th-frome-jubilee-scout-group-group-waiting-list/7118e404-2570-49a6-a123-361dc23330a0/apply" target="_blank" rel="noopener noreferrer">Online Scout manager.</a> ( We use Online Scout manager to help us manage the Scout troop) </p>
-<div class="post__iframe"><iframe loading="lazy" width="800" height="2100" style="transform: scale(1); width: 800px; height: 2100px;" frameborder="0" scrolling="no" src="https://www.onlinescoutmanager.co.uk/waiting-list/1st-and-7th-frome-jubilee-scout-group-group-waiting-list/7118e404-2570-49a6-a123-361dc23330a0/apply"></iframe></div>
+<div style="--aspect-ratio: 16/9;"><div class="post__iframe"><iframe loading="lazy" width="1600" height="900" src="https://www.onlinescoutmanager.co.uk/waiting-list/1st-and-7th-frome-jubilee-scout-group-group-waiting-list/7118e404-2570-49a6-a123-361dc23330a0/apply" frameborder="0">
+	</iframe></div></div>
             ]]>
         </content>
     </entry>
