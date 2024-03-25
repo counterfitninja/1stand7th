@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://counterfitninja.github.io/1stand7th/sitemap.xml
