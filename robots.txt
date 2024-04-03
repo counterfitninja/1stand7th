@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://static.1stand7thfromescouts.org.uk/sitemap.xml
+Sitemap: https://www..1stand7thfromescouts.org.uk/sitemap.xml
