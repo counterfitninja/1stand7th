@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.1stand7thfromescouts.org.uk/8-new-scouts/",
+            "url": "https://www.1stand7thfromescouts.org.uk/8-new-scouts/",
+            "title": "8 New Scouts",
+            "summary": "What a great night for the Scouts last night. Investing a total of 8 new Scouts into the group. 3 of these have moved up from Cubs and the remaining are new intakes. Its great to see the group and Scouts thriving.",
+            "content_html": "<p>What a great night for the Scouts last night. Investing a total of 8 new Scouts into the group. 3 of these have moved up from Cubs and the remaining are new intakes. Its great to see the group and Scouts thriving.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.1stand7thfromescouts.org.uk/media/posts/34/GridArt_20241015_101116390.jpg\" alt=\"\" width=\"3443\" height=\"2358\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.1stand7thfromescouts.org.uk/media/posts/34/responsive/GridArt_20241015_101116390-xs.jpg 300w ,https://www.1stand7thfromescouts.org.uk/media/posts/34/responsive/GridArt_20241015_101116390-sm.jpg 480w ,https://www.1stand7thfromescouts.org.uk/media/posts/34/responsive/GridArt_20241015_101116390-md.jpg 768w ,https://www.1stand7thfromescouts.org.uk/media/posts/34/responsive/GridArt_20241015_101116390-lg.jpg 1024w ,https://www.1stand7thfromescouts.org.uk/media/posts/34/responsive/GridArt_20241015_101116390-xl.jpg 1360w ,https://www.1stand7thfromescouts.org.uk/media/posts/34/responsive/GridArt_20241015_101116390-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Dave Bird"
+            },
+            "tags": [
+                   "Scouts"
+            ],
+            "date_published": "2024-10-15T12:20:28+01:00",
+            "date_modified": "2024-10-15T12:20:28+01:00"
+        },
+        {
             "id": "https://www.1stand7thfromescouts.org.uk/egg-drop/",
             "url": "https://www.1stand7thfromescouts.org.uk/egg-drop/",
             "title": "Egg Drop",
@@ -151,22 +166,6 @@
             ],
             "date_published": "2024-03-31T11:30:48+01:00",
             "date_modified": "2024-03-31T11:31:40+01:00"
-        },
-        {
-            "id": "https://www.1stand7thfromescouts.org.uk/airfix/",
-            "url": "https://www.1stand7thfromescouts.org.uk/airfix/",
-            "title": "Airfix",
-            "summary": "The Scouts got stuck into model building this week. The kits were supplied by Airfix as part of the Scouts relation. We were luck to have got some kits and the scouts really enjoyed starting their builds. There are 2 builds, a Jaguar and Spitfire.",
-            "content_html": "<p>The Scouts got stuck into model building this week.</p>\n<p>The kits were supplied by Airfix as part of the Scouts relation. We were luck to have got some kits and the scouts really enjoyed starting their builds. There are 2 builds, a Jaguar and Spitfire. Once dry, the paint and decals will be added.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://www.1stand7thfromescouts.org.uk/media/posts/24/gallery/img-20240109-wa000331043663775659555954-1024x918-2.webp\" data-size=\"1024x918\"><img loading=\"lazy\" src=\"https://www.1stand7thfromescouts.org.uk/media/posts/24/gallery/img-20240109-wa000331043663775659555954-1024x918-2-thumbnail.webp\" alt=\"\" width=\"768\" height=\"689\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.1stand7thfromescouts.org.uk/media/posts/24/gallery/img-20240109-wa000027727580925809529701-768x1024-2.webp\" data-size=\"768x1024\"><img loading=\"lazy\" src=\"https://www.1stand7thfromescouts.org.uk/media/posts/24/gallery/img-20240109-wa000027727580925809529701-768x1024-2-thumbnail.webp\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.1stand7thfromescouts.org.uk/media/posts/24/gallery/img-20240109-wa000143409288700868581439-623x1024-2.webp\" data-size=\"623x1024\"><img loading=\"lazy\" src=\"https://www.1stand7thfromescouts.org.uk/media/posts/24/gallery/img-20240109-wa000143409288700868581439-623x1024-2-thumbnail.webp\" alt=\"\" width=\"623\" height=\"1024\"></a></figure>\n</div></div>",
-            "image": "https://www.1stand7thfromescouts.org.uk/media/posts/24/9ebd83a8-eab2-4865-a46a-6b993b9f226c.jpeg",
-            "author": {
-                "name": "Dave Bird"
-            },
-            "tags": [
-                   "Scouts"
-            ],
-            "date_published": "2024-03-31T11:29:37+01:00",
-            "date_modified": "2024-04-08T19:34:15+01:00"
         }
     ]
 }
