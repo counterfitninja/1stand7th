@@ -3,12 +3,40 @@
     <title>1st and 7th Scout Group</title>
     <link href="https://www.1stand7thfromescouts.org.uk/feed.xml" rel="self" />
     <link href="https://www.1stand7thfromescouts.org.uk" />
-    <updated>2024-10-18T11:08:18+01:00</updated>
+    <updated>2024-11-10T22:07:56+00:00</updated>
     <author>
         <name>GSL</name>
     </author>
     <id>https://www.1stand7thfromescouts.org.uk</id>
 
+    <entry>
+        <title>Remembrance Sunday</title>
+        <author>
+            <name>GSL</name>
+        </author>
+        <link href="https://www.1stand7thfromescouts.org.uk/remembrance-sunday.html"/>
+        <id>https://www.1stand7thfromescouts.org.uk/remembrance-sunday.html</id>
+            <category term="Group"/>
+
+        <updated>2024-11-10T21:56:18+00:00</updated>
+            <summary>
+                <![CDATA[
+                    We had the privilege once again to take part in the Remembrance Sunday parade in Frome. We will remember them
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We had the privilege once again to take part in the Remembrance Sunday parade in Frome.   We will remember them</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
+<figure class="gallery__item"><a href="https://www.1stand7thfromescouts.org.uk/media/posts/18/gallery/PXL_20241110_103418204.MP.jpg" data-size="2736x3648"><img loading="lazy" src="https://www.1stand7thfromescouts.org.uk/media/posts/18/gallery/PXL_20241110_103418204.MP-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://www.1stand7thfromescouts.org.uk/media/posts/18/gallery/PXL_20241110_110300032.MP.jpg" data-size="4080x3072"><img loading="lazy" src="https://www.1stand7thfromescouts.org.uk/media/posts/18/gallery/PXL_20241110_110300032.MP-thumbnail.jpg" alt="" width="768" height="578"></a></figure>
+<figure class="gallery__item"><a href="https://www.1stand7thfromescouts.org.uk/media/posts/18/gallery/PXL_20241110_110301419.MP.jpg" data-size="4080x3072"><img loading="lazy" src="https://www.1stand7thfromescouts.org.uk/media/posts/18/gallery/PXL_20241110_110301419.MP-thumbnail.jpg" alt="" width="768" height="578"></a></figure>
+<figure class="gallery__item"><a href="https://www.1stand7thfromescouts.org.uk/media/posts/18/gallery/PXL_20241110_110303724.MP.jpg" data-size="4080x3072"><img loading="lazy" src="https://www.1stand7thfromescouts.org.uk/media/posts/18/gallery/PXL_20241110_110303724.MP-thumbnail.jpg" alt="" width="768" height="578"></a></figure>
+<figure class="gallery__item"><a href="https://www.1stand7thfromescouts.org.uk/media/posts/18/gallery/PXL_20241110_110545896.MP.jpg" data-size="3072x4080"><img loading="lazy" src="https://www.1stand7thfromescouts.org.uk/media/posts/18/gallery/PXL_20241110_110545896.MP-thumbnail.jpg" alt="" width="768" height="1020"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>New Scouts investing</title>
         <author>
